@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Будильник</string>
+    <string name="note">Описание</string>
+    <string name="settings">Настройки</string>
+    <string name="repeate">Повтор</string>
+    <string name="type">Тип и сложность</string>
+    <string name="melody">Мелодия</string>
+    <string name="text_save">Сохранить</string>
+    <string name="difficulty">Сложность</string>
+    <string name="lite">Просто</string>
+    <string name="medium">Средняя сложность</string>
+    <string name="strong">Сложно</string>
+    <string name="typeOff">Тип выключения</string>
+    <string name="math">Математический</string>
+    <string name="points">Соединение элементов</string>
+    <string name="points_math">Случайно</string>
+    <string name="type_dif">Тип и сложность</string>
+    <string name="delete">Удалить будильник</string>
+    <string name="update">Редактировать будильник</string>
+    <string name="alarm_set">Напоминание</string>
+</resources>
