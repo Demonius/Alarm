@@ -20,12 +20,6 @@
             app:layout_collapseMode="pin"
             app:layout_scrollFlags="scroll|enterAlways"
             app:title="@string/type_dif"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-            app:titleTextColor="@color/colorBackground"></android.support.v7.widget.Toolbar>
-    </android.support.design.widget.AppBarLayout>
-
-
-=======
             app:titleTextColor="@color/colorBackground">
 
         </android.support.v7.widget.Toolbar>
@@ -42,7 +36,6 @@
             android:orientation="vertical" >
 
 
->>>>>>> Исправление удаления будильника
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -84,18 +77,11 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-        android:orientation="horizontal">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-=======
         android:layout_marginLeft="10dp"
         android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="0dp"
->>>>>>> Исправление удаления будильника
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="vertical">
@@ -105,37 +91,18 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginTop="10dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:layout_weight="1"
-=======
 
->>>>>>> Исправление удаления будильника
                 android:orientation="horizontal">
 
                 <ImageView
                     android:id="@+id/imageView2"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="30dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left|center_vertical"
-=======
                     android:layout_width="40dp"
                     android:layout_height="40dp"
                     android:layout_gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     app:srcCompat="@drawable/lite" />
 
                 <TextView
                     android:id="@+id/textView7"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-                    android:paddingLeft="30dp"
-                    android:text="@string/lite"
-                    android:textSize="16sp" />
-=======
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
 
@@ -144,7 +111,6 @@
                     android:text="@string/lite"
                     android:textSize="16sp"
                     android:layout_gravity="center_vertical" />
->>>>>>> Исправление удаления будильника
 
 
             </LinearLayout>
@@ -152,30 +118,12 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:layout_marginTop="10dp"
-=======
                 android:layout_marginTop="0dp"
->>>>>>> Исправление удаления будильника
                 android:layout_weight="1"
                 android:orientation="horizontal">
 
                 <ImageView
                     android:id="@+id/imageViewMedium"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="30dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left|center_vertical"
-                    app:srcCompat="@drawable/medium" />
-
-                <TextView
-                    android:id="@+id/textViewMedium"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-                    android:paddingLeft="30dp"
-=======
                     android:layout_height="40dp"
                     android:layout_gravity="start|center_vertical"
                     app:srcCompat="@drawable/medium"
@@ -187,7 +135,6 @@
                     android:layout_height="wrap_content"
                     android:paddingLeft="20dp"
                     android:layout_gravity="center_vertical"
->>>>>>> Исправление удаления будильника
                     android:text="@string/medium"
                     android:textSize="16sp" />
 
@@ -197,43 +144,25 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:layout_marginTop="10dp"
-=======
 
->>>>>>> Исправление удаления будильника
                 android:layout_weight="1"
                 android:orientation="horizontal">
 
                 <ImageView
                     android:id="@+id/imageViewStrong"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="30dp"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="left|center_vertical"
-=======
                     android:layout_width="40dp"
                     android:layout_height="40dp"
 
                     android:layout_gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     app:srcCompat="@drawable/strong" />
 
                 <TextView
                     android:id="@+id/textViewStrong"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-                    android:paddingLeft="30dp"
-=======
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
 
                     android:layout_gravity="center_vertical"
                     android:paddingLeft="20dp"
->>>>>>> Исправление удаления будильника
                     android:text="@string/strong"
                     android:textSize="16sp" />
 
@@ -251,11 +180,7 @@
             android:layout_marginRight="16dp"
 
             android:animateLayoutChanges="true"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-            android:layoutMode="opticalBounds"
-=======
 
->>>>>>> Исправление удаления будильника
             android:orientation="vertical">
 
             <RadioButton
@@ -263,11 +188,7 @@
                 style="@android:style/Widget.CompoundButton.RadioButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:layout_marginTop="7dp"
-=======
                 android:layout_marginTop="14dp"
->>>>>>> Исправление удаления будильника
                 android:checked="true"
                 android:gravity="center_vertical" />
 
@@ -276,23 +197,15 @@
                 style="@android:style/Widget.CompoundButton.RadioButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:gravity="center_vertical" />
-=======
                 android:gravity="center_vertical"
                 android:layout_marginTop="7dp"/>
->>>>>>> Исправление удаления будильника
 
             <RadioButton
                 android:id="@+id/radioStrong"
                 style="@android:style/Widget.CompoundButton.RadioButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-
-=======
                 android:layout_marginTop="7dp"
->>>>>>> Исправление удаления будильника
                 android:gravity="center_vertical" />
 
         </RadioGroup>
@@ -305,11 +218,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-        android:layout_marginTop="36dp"
-=======
         android:layout_marginTop="28dp"
->>>>>>> Исправление удаления будильника
         android:orientation="horizontal">
 
         <TextView
@@ -345,18 +254,11 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-        android:orientation="horizontal">
-
-        <LinearLayout
-            android:layout_width="match_parent"
-=======
         android:layout_marginLeft="10dp"
         android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="0dp"
->>>>>>> Исправление удаления будильника
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="vertical">
@@ -370,11 +272,7 @@
                     android:id="@+id/imageViewmath"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_gravity="left|center_vertical"
-=======
                     android:layout_gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     app:srcCompat="@drawable/plus_math" />
 
                 <TextView
@@ -382,12 +280,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-=======
                     android:gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     android:paddingLeft="20dp"
                     android:text="@string/math"
                     android:textSize="16sp" />
@@ -405,27 +298,15 @@
                     android:id="@+id/imageViewPoints"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_gravity="left|center_vertical"
-=======
                     android:layout_gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     app:srcCompat="@drawable/points" />
 
                 <TextView
                     android:id="@+id/textViewPoints"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-=======
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
                     android:gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     android:paddingLeft="20dp"
                     android:text="@string/points"
                     android:textSize="16sp" />
@@ -437,38 +318,22 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:layout_weight="1"
-=======
->>>>>>> Исправление удаления будильника
                 android:orientation="horizontal">
 
                 <ImageView
                     android:id="@+id/imageViewPointsMath"
                     android:layout_width="40dp"
                     android:layout_height="40dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_gravity="left|center_vertical"
-=======
                     android:layout_gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     app:srcCompat="@drawable/points_and_plus" />
 
                 <TextView
                     android:id="@+id/textViewPointsMath"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_vertical"
-                    android:layout_weight="1"
-                    android:gravity="left|center_vertical"
-=======
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
 
                     android:gravity="start|center_vertical"
->>>>>>> Исправление удаления будильника
                     android:paddingLeft="20dp"
                     android:text="@string/points_math"
                     android:textSize="16sp" />
@@ -483,12 +348,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="16dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-            android:orientation="vertical">
-=======
             android:orientation="vertical"
             android:layout_gravity="end">
->>>>>>> Исправление удаления будильника
 
             <RadioButton
                 android:id="@+id/radioMath"
@@ -506,11 +367,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:allowUndo="false"
-=======
 
->>>>>>> Исправление удаления будильника
                 android:gravity="center_vertical"
                 android:layout_marginTop="15dp" />
 
@@ -520,10 +377,6 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-                android:allowUndo="false"
-=======
->>>>>>> Исправление удаления будильника
                 android:gravity="center_vertical"
                 android:layout_marginTop="15dp" />
         </RadioGroup>
@@ -547,15 +400,10 @@
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginTop="20dp"
-<<<<<<< f1f9950d6738e94b662d001f8806ce2b6c2077e6
-        android:gravity="right"
-        android:text="@string/text_save" />
-=======
         android:gravity="end"
         android:text="@string/text_save" />
         </LinearLayout>
 
     </ScrollView>
->>>>>>> Исправление удаления будильника
 
 </LinearLayout>

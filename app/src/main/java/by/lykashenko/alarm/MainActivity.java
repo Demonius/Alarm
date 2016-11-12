@@ -8,7 +8,6 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.view.ContextThemeWrapper;
 import android.widget.Toast;
 
 import com.activeandroid.ActiveAndroid;
@@ -26,9 +25,8 @@ import by.lykashenko.alarm.Reciever.AlarmReciever;
 public class MainActivity extends AppCompatActivity implements FragmentListAlarm.InterfaceAddAlarm
         , FragmentAddAlarm.InterfaceClickOption {
 
-    public final static  String  ADD_ALARM = "AddAlarm";
-    public final static  String  LIST_ALARM = "ListAlarm";
-
+    public final static String ADD_ALARM = "AddAlarm";
+    public final static String LIST_ALARM = "ListAlarm";
 
 
     @Override
@@ -41,7 +39,7 @@ public class MainActivity extends AppCompatActivity implements FragmentListAlarm
 
         FragmentListAlarm fragmentListAlarm = new FragmentListAlarm();
         FragmentTransaction ftrans = getSupportFragmentManager().beginTransaction();
-        ftrans.add(R.id.frameLayoutMain,fragmentListAlarm,LIST_ALARM);
+        ftrans.add(R.id.frameLayoutMain, fragmentListAlarm, LIST_ALARM);
         ftrans.commit();
     }
 
@@ -59,18 +57,18 @@ public class MainActivity extends AppCompatActivity implements FragmentListAlarm
     public void onInterfaceClickOption(String note, Long timeAlarm, Boolean repeate, Integer dif, Integer type) {
         Boolean stateAlarm = true;
         ActiveAndroid.beginTransaction();
-        AlarmTable alarmTable = new AlarmTable(timeAlarm,note,repeate,dif,type, stateAlarm);
+        AlarmTable alarmTable = new AlarmTable(timeAlarm, note, repeate, dif, type, stateAlarm);
         alarmTable.save();
         ActiveAndroid.setTransactionSuccessful();
         ActiveAndroid.endTransaction();
 
-        List<AlarmTable> list = new Select().from(AlarmTable.class).where("timeAlarm = ?",timeAlarm).execute();
+        List<AlarmTable> list = new Select().from(AlarmTable.class).where("timeAlarm = ?", timeAlarm).execute();
         String id = list.get(0).getId().toString();
         AlarmManager alarmManager = (AlarmManager) getSystemService(Context.ALARM_SERVICE);
         Intent intent = new Intent(this, AlarmReciever.class);
         intent.putExtra("note", note);
         intent.putExtra("id", id);
-        PendingIntent pendingIntent = PendingIntent.getBroadcast(this,Integer.parseInt(id),intent,PendingIntent.FLAG_CANCEL_CURRENT);
+        PendingIntent pendingIntent = PendingIntent.getBroadcast(this, Integer.parseInt(id), intent, PendingIntent.FLAG_CANCEL_CURRENT);
         alarmManager.cancel(pendingIntent);
         alarmManager.set(AlarmManager.RTC_WAKEUP, timeAlarm, pendingIntent);
 

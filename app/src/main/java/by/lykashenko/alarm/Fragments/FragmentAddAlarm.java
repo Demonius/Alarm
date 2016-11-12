@@ -140,7 +140,7 @@ public class FragmentAddAlarm extends Fragment {
             @Override
             public void onClick(View v) {
                 DialogTypeAlarm dialogTypeAlarm = new DialogTypeAlarm();
-                dialogTypeAlarm.setTargetFragment(getFragmentManager().findFragmentByTag(MainActivity.ADD_ALARM), REQUEST_TYPE);
+                dialogTypeAlarm.setTargetFragment(getActivity().getSupportFragmentManager().findFragmentByTag(MainActivity.ADD_ALARM), REQUEST_TYPE);
                 dialogTypeAlarm.show(getActivity().getSupportFragmentManager(), "TypeAlarm");
             }
         });

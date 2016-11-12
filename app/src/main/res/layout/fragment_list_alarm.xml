@@ -10,8 +10,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:layout_behavior="@string/appbar_scrolling_view_behavior"
-            android:id="@+id/recyclerViewAlarm"
-            android:backgroundTintMode="add" />
+            android:id="@+id/recyclerViewAlarm"/>
 
         <android.support.design.widget.FloatingActionButton
         android:layout_width="wrap_content"
@@ -19,8 +18,7 @@
         android:clickable="true"
         android:layout_gravity="bottom|end"
         android:src="@drawable/plus"
-        android:layout_margin="@dimen/fab_margin"
         android:id="@+id/floatingActionButtonAddAlarm"
-        app:elevation="3dp"/>
+        app:elevation="0dp"/>
 
     </android.support.design.widget.CoordinatorLayout>

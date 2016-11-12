@@ -143,6 +143,7 @@ public class FragmentListAlarm extends Fragment {
                                         new Delete().from(AlarmTable.class).where("timeAlarm = ?",m_list_alarm.get(position_click).timeAlarm).execute();
                                         listAlarm.clear();
                                         listAlarm = new Select().from(AlarmTable.class).execute();
+                                        m_list_alarm=listAlarm;
                                         if (listAlarm.isEmpty()){
                                             coordinatorLayout.setBackgroundResource(R.drawable.no_alarm);
                                         }
