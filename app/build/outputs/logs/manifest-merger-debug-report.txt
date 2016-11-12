@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [com.android.support:design:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:10:9-40
+activity#by.lykashenko.alarm.MainActivity
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:15:27-74
+meta-data#AA_DB_NAME
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:19:9-21:40
+	android:value
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:20:13-38
+meta-data#AA_DB_VERSION
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:22:9-24:33
+	android:value
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:24:13-30
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:23:13-41
+meta-data#AA_MODELS
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:25:9-27:65
+	android:value
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:27:13-62
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:26:13-37
+receiver#by.lykashenko.alarm.Reciever.AlarmReciever
+ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:29:9-32:48
+	android:enabled
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml:30:13-51
+uses-sdk
+INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:appcompat-v7:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-vector-drawable:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta3] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.0] /home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml
+		INJECTED from /home/demon/Projects/Alarm/app/src/main/AndroidManifest.xml

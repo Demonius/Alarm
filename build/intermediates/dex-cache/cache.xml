@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a2b86753c5e234656ec54902dc650e41d5bebba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3212e25717e02f84f183c514bcf1ba2ba88fff0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_362db6f4c1be29fca11538a1747e697732eab516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_76278758d92b56a08870c3e0419ca2955b988347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cc576c56497c99a3d2cfd6cb77f2466bc277df8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_546085a768b5ecf5b4602d4205b988a1ec656a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_be219a7f145d456d3cd3cc29a5ace00ed6f28ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_735ad37be9844695098c957244a04396aeaef19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_9bf2fd3f29fdf9e05c91ee656e2321dd9f56415b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_69f9f434fd1de1baad1ac7b8e11b32ca99d8baf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_22f1e24e7be877c350d28ebbed5934b9c84738a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9c0f0075e37b45af26351453078df584149633d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_c127773238219f5fd81283b26c1edc1508f7d035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_a19b29c4afe116123194aef25ea372f8cd636921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_2622c66901a42466137f46bbcb1c810770d8fd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_dcd7dafc1d8f072b411907952a8c3ee35961b149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_33a6523df4149a9b1896683c861336ffdae931b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4b41bbf32a8e6296a0a89a9ade479a783a56512e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_916b7a31b770ba79c587aca1a6ec60f93b25c5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_dcd7dafc1d8f072b411907952a8c3ee35961b149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a2b86753c5e234656ec54902dc650e41d5bebba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_362db6f4c1be29fca11538a1747e697732eab516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b81d40d208a3308c8e81b2cccd3054238a13d140">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta3_eda22bf1491901b208f69e64ecd52c5746241277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_eeed656334dbb9becc6cde8089ebdf8868c85998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3212e25717e02f84f183c514bcf1ba2ba88fff0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_735ad37be9844695098c957244a04396aeaef19a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_9c0f0075e37b45af26351453078df584149633d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_be219a7f145d456d3cd3cc29a5ace00ed6f28ae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_76278758d92b56a08870c3e0419ca2955b988347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cc576c56497c99a3d2cfd6cb77f2466bc277df8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_22f1e24e7be877c350d28ebbed5934b9c84738a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_546085a768b5ecf5b4602d4205b988a1ec656a52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_2622c66901a42466137f46bbcb1c810770d8fd56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6f4d3aaf3a6272f6af28f87f7752dd875b920d3">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/instant-run_2a67dccd4591a931b5008d2a8742394727520470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_eeed656334dbb9becc6cde8089ebdf8868c85998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_a19b29c4afe116123194aef25ea372f8cd636921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_69f9f434fd1de1baad1ac7b8e11b32ca99d8baf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_c127773238219f5fd81283b26c1edc1508f7d035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta3/constraint-layout-solver-1.0.0-beta3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22c1e9d26251df254de7cc9dee01f5f134b10eba">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta3_e1c0a1b31dae31a66c7a519a496e1bc9397bf8aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_4b41bbf32a8e6296a0a89a9ade479a783a56512e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_9bf2fd3f29fdf9e05c91ee656e2321dd9f56415b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_916b7a31b770ba79c587aca1a6ec60f93b25c5a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/.gradle/caches/modules-2/files-2.1/com.michaelpardo/activeandroid/3.1.0-SNAPSHOT/4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08/activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/activeandroid-3.1.0-SNAPSHOT_33a6523df4149a9b1896683c861336ffdae931b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/demon/Projects/Alarm/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f44c98b93ccbe116286471bde2caf942485f3a4">
+        <dex dex="/home/demon/Projects/Alarm/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_5611c5993ac5c74977b96624a29e29d82cf43628.jar" />
+    </item>
+
+</items>
